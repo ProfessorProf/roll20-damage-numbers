@@ -1,11 +1,11 @@
 /* Damage Numbers script
-* Generates Final Fantasy-style damage numbers whenever a token's health increases or decreases.
-* Works for any system.
-* 
-* Created by Quinn Gordon
-* Roll20: https://app.roll20.net/users/42042/prof
-* Github: https://github.com/ProfessorProf
-*/
+ * Generates Final Fantasy-style damage numbers whenever a token's health increases or decreases.
+ * Works for any system.
+ * 
+ * Created by Quinn Gordon
+ * Roll20: https://app.roll20.net/users/42042/prof
+ * Github: https://github.com/ProfessorProf
+ */
 
 // Config:
 state.damageNumbers = {
